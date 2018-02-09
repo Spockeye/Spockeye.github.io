@@ -8,3 +8,11 @@ This is my 360 image
 ###Camera Effects
 
 ![filter](The Order.png?raw=true "Optional Title")
+
+***
+
+##Lonely Island
+ 
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/spockeye/lonely-island" ></script>
+
+***
